@@ -10,7 +10,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     classroom_in_a_box: "教授计算机科学的一站式课堂。"
     codecombat_is: "CodeCombat是一个让<strong>学生</strong>通过玩游戏学习计算机科学的平台。"
     our_courses: "我们的游戏编程课程尤其<strong>适用于教室教学的需求</strong>。无编程经验的教师也可轻松授课。"
-#    watch_how: "Watch how CodeCombat is transforming the way people learn computer science."
+    watch_how: "了解CodeCombat是如何改变人们学习计算机科学的方式的。"
     top_screenshots_hint: "学生编写代码后可即时查看改动。"
     designed_with: "从教育者角度设计"
     real_code: "真实可行的代码"
@@ -138,10 +138,10 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     change_hero: "重新选择英雄" # Go back from choose inventory to choose hero
     buy_gems: "购买宝石"
     subscription_required: "需订阅"
-#    subscribers_only: "Subscribers Only!"
-#    subscribe_unlock: "Subscribe to Unlock!"
-#    subscriber_heroes: "Subscribe today to immediately unlock Amara, Hushbaum, and Hattori!"
-#    subscriber_gems: "Subscribe today to purchase this hero with gems!"
+    subscribers_only: "只适合订阅者!"
+    subscribe_unlock: "订阅者解锁!"
+    subscriber_heroes: "立即订阅，即可解锁英雄Amara, Hushbaum和Hattori!"
+    subscriber_gems: "立即订阅，即可使用宝石购买此英雄"
     anonymous: "匿名玩家"
     level_difficulty: "难度："
     play_classroom_version: "玩课堂模式" # Choose a level in campaign version that you also can play in one of your courses
@@ -152,9 +152,9 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     adjust_volume: "音量调节"
     campaign_multiplayer: "多人竞技场"
     campaign_multiplayer_description: "……在这里您可以与其他玩家进行代码肉搏战。"
-#    brain_pop_done: "You’ve defeated the Ogres with code! You win!"
-#    brain_pop_challenge: "Challenge yourself to play again using a different programming language!"
-#    replay: "Replay"
+    brain_pop_done: "您已经使用代码打败了Ogres，恭喜你赢了!"
+    brain_pop_challenge: "挑战下自己，尝试用不同的语言再来玩一次!"
+    replay: "再玩一次"
     back_to_classroom: "返回教室"
 
   code:
